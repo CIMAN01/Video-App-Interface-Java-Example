@@ -1,2 +1,2 @@
 # Video-App-Interface-Java-Example
-Decoupling classes in Java via interfaces and injecting dependencies
+Decoupling classes by coding towards interfaces and then injecting a dependency via the constructor in Java.
