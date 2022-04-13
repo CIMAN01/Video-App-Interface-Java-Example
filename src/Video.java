@@ -1,4 +1,3 @@
-
 public class Video {
 
     private String fileName;
