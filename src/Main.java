@@ -1,8 +1,7 @@
-
 public class Main {
-
+    
     public static void main(String[] args) {
-
+        
         Video video = new Video();
 
         video.setFileName("birthday.mp4");
@@ -17,5 +16,5 @@ public class Main {
 
         processor.process(video);
     }
-
+    
 }
