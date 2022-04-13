@@ -1,6 +1,4 @@
-
 public class SqlVideoDatabase implements VideoDatabase {
-
     @Override
     public void store(Video video) {
         System.out.println("Storing video metadata in a SQL database...");
@@ -8,5 +6,4 @@ public class SqlVideoDatabase implements VideoDatabase {
         System.out.println("File Name: " + video.getFileName());
         System.out.println("Done!\n");
     }
-
 }
