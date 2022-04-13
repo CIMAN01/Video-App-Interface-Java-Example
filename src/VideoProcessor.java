@@ -1,4 +1,3 @@
-
 public class VideoProcessor {
 
     // use Interface Segregation Principle (here fields rely on interfaces instead of composition or classes)
